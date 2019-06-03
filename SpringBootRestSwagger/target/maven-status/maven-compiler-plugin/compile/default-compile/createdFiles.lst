@@ -1,0 +1,5 @@
+com\eventos\repository\EventoRepository.class
+com\eventos\resources\EventoResource.class
+com\eventos\EventosApplication.class
+com\eventos\DataConfiguration.class
+com\eventos\models\Evento.class
